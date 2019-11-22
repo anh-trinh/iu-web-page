@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Edusoft</string>
+    <string name="notice">Your passwords are protected, private and stored only in your device.</string>
+    <string name="finish"><u>Finish</u></string>
+</resources>
